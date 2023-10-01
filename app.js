@@ -11,3 +11,4 @@ let x =10 ,y=9;
 let fiez =addd(x,y)
 console.log(fiez);
 alert("fiez alhahg")
+alert("fiez alhahg")
