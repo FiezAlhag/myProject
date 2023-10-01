@@ -7,7 +7,7 @@ function addd (x,y){
 }
 
 
-let x =10 ,y=9;
+let x =99 ,y=9;
 let fiez =addd(x,y)
 console.log(fiez);
 alert("fiez alhahg")

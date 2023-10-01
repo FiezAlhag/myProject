@@ -14,4 +14,17 @@ p{
 }
 body{
     background-color: #333;
+
+}
+button{
+    background-color: orange;
+    color: black;
+    padding: 7px 15px ;
+    font-size: 30px;
+    outline: none;
+    border: none;
+    color: white;
+    text-align: center;
+    width: fit-content;
+
 }
